@@ -18,6 +18,12 @@
 
 ## Installation
 
+> [!IMPORTANT]  
+> Make sure you've installed `curl` on your system. If not, Linux user can try this:
+> ```bash
+> apt-get install curl -y
+> ```
+
 ```bash
 curl -s https://raw.githubusercontent.com/mitsuki31/ytmp3-setup/master/setup.sh | bash
 ```
